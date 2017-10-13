@@ -1,0 +1,426 @@
+[
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\google_cards_background_top.xml",
+        "source": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\res\\drawable\\google_cards_background_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\TruongLX\\.android\\build-cache\\3b60b9f8074aa62839d10c0ce5f0e87add994ad0\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\TruongLX\\.android\\build-cache\\3b60b9f8074aa62839d10c0ce5f0e87add994ad0\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_header_background.xml",
+        "source": "C:\\Users\\TruongLX\\.android\\build-cache\\6c4cbd296a658e38bd63b76fbc84c6801cb7bfaf\\output\\res\\drawable\\com_facebook_auth_dialog_header_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_drag_and_drop_shop.xml",
+        "source": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\res\\drawable\\selector_drag_and_drop_shop.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\gradient_search_bar_shop_background.xml",
+        "source": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\res\\drawable\\gradient_search_bar_shop_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\TruongLX\\.android\\build-cache\\3b60b9f8074aa62839d10c0ce5f0e87add994ad0\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\TruongLX\\.android\\build-cache\\3b60b9f8074aa62839d10c0ce5f0e87add994ad0\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\gradient_background_wizard_media.xml",
+        "source": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\res\\drawable\\gradient_background_wizard_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_favicon_blue.xml",
+        "source": "C:\\Users\\TruongLX\\.android\\build-cache\\6c4cbd296a658e38bd63b76fbc84c6801cb7bfaf\\output\\res\\drawable\\com_facebook_favicon_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_selector_light.xml",
+        "source": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\res\\drawable\\checkbox_selector_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_like_background.xml",
+        "source": "C:\\Users\\TruongLX\\.android\\build-cache\\6c4cbd296a658e38bd63b76fbc84c6801cb7bfaf\\output\\res\\drawable\\com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\TruongLX\\.android\\build-cache\\3b60b9f8074aa62839d10c0ce5f0e87add994ad0\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_send_background.xml",
+        "source": "C:\\Users\\TruongLX\\.android\\build-cache\\1164f474abe25a3071cfb00a3fe8ebe17fe3b097\\output\\res\\drawable\\com_facebook_button_send_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\TruongLX\\.android\\build-cache\\3b60b9f8074aa62839d10c0ce5f0e87add994ad0\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\transparent_button_selector.xml",
+        "source": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\res\\drawable\\transparent_button_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\TruongLX\\.android\\build-cache\\3b60b9f8074aa62839d10c0ce5f0e87add994ad0\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\google_cards_background_bottom.xml",
+        "source": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\res\\drawable\\google_cards_background_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_background_empty.xml",
+        "source": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\res\\drawable\\selector_background_empty.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\search_bar_background_travel.xml",
+        "source": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\res\\drawable\\search_bar_background_travel.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_text_border.xml",
+        "source": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\res\\drawable\\edit_text_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\gradient_background_media.xml",
+        "source": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\res\\drawable\\gradient_background_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\social_bottom_background.xml",
+        "source": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\res\\drawable\\social_bottom_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_wizard_travel.xml",
+        "source": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\res\\drawable\\selector_wizard_travel.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_text_full.xml",
+        "source": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\res\\drawable\\selector_text_full.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\TruongLX\\.android\\build-cache\\3b60b9f8074aa62839d10c0ce5f0e87add994ad0\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\TruongLX\\.android\\build-cache\\3b60b9f8074aa62839d10c0ce5f0e87add994ad0\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\travel_parallax_ratingbar_color.xml",
+        "source": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\res\\drawable\\travel_parallax_ratingbar_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\gradient_background_wizard_shop.xml",
+        "source": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\res\\drawable\\gradient_background_wizard_shop.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\TruongLX\\.android\\build-cache\\3b60b9f8074aa62839d10c0ce5f0e87add994ad0\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_background.xml",
+        "source": "C:\\Users\\TruongLX\\.android\\build-cache\\6c4cbd296a658e38bd63b76fbc84c6801cb7bfaf\\output\\res\\drawable\\com_facebook_auth_dialog_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\TruongLX\\.android\\build-cache\\3b60b9f8074aa62839d10c0ce5f0e87add994ad0\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_silver_background.xml",
+        "source": "C:\\Users\\TruongLX\\.android\\build-cache\\e320864548d446e8a1b07bce48b1422deaca8dcb\\output\\res\\drawable\\com_facebook_button_login_silver_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\gradient_background_shop.xml",
+        "source": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\res\\drawable\\gradient_background_shop.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\gradient_background_wizard_travel.xml",
+        "source": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\res\\drawable\\gradient_background_wizard_travel.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\TruongLX\\.android\\build-cache\\3b60b9f8074aa62839d10c0ce5f0e87add994ad0\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_background.xml",
+        "source": "C:\\Users\\TruongLX\\.android\\build-cache\\e320864548d446e8a1b07bce48b1422deaca8dcb\\output\\res\\drawable\\com_facebook_button_login_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\TruongLX\\.android\\build-cache\\3b60b9f8074aa62839d10c0ce5f0e87add994ad0\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\gradient_background_dialog_shop.xml",
+        "source": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\res\\drawable\\gradient_background_dialog_shop.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\TruongLX\\.android\\build-cache\\3b60b9f8074aa62839d10c0ce5f0e87add994ad0\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\cpb_idle_state_selector_empty.xml",
+        "source": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\res\\drawable\\cpb_idle_state_selector_empty.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_dialog_warning.xml",
+        "source": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\res\\drawable\\selector_dialog_warning.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_text_cursor_drawable_main.xml",
+        "source": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\res\\drawable\\edit_text_cursor_drawable_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\TruongLX\\.android\\build-cache\\3b60b9f8074aa62839d10c0ce5f0e87add994ad0\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\TruongLX\\.android\\build-cache\\3b60b9f8074aa62839d10c0ce5f0e87add994ad0\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\TruongLX\\.android\\build-cache\\3b60b9f8074aa62839d10c0ce5f0e87add994ad0\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_left_menu_girl.xml",
+        "source": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\res\\drawable\\ic_left_menu_girl.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_text_cursor_drawable_accent.xml",
+        "source": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\res\\drawable\\edit_text_cursor_drawable_accent.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\TruongLX\\.android\\build-cache\\3b60b9f8074aa62839d10c0ce5f0e87add994ad0\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\TruongLX\\.android\\build-cache\\3b60b9f8074aa62839d10c0ce5f0e87add994ad0\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\TruongLX\\.android\\build-cache\\3b60b9f8074aa62839d10c0ce5f0e87add994ad0\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\cpb_idle_state_selector_full_complete.xml",
+        "source": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\res\\drawable\\cpb_idle_state_selector_full_complete.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\TruongLX\\.android\\build-cache\\3b60b9f8074aa62839d10c0ce5f0e87add994ad0\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\TruongLX\\.android\\build-cache\\3b60b9f8074aa62839d10c0ce5f0e87add994ad0\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\TruongLX\\.android\\build-cache\\3b60b9f8074aa62839d10c0ce5f0e87add994ad0\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\TruongLX\\.android\\build-cache\\3b60b9f8074aa62839d10c0ce5f0e87add994ad0\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_media_rating_bar_full_filled.xml",
+        "source": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\res\\drawable\\dialog_media_rating_bar_full_filled.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_logo.xml",
+        "source": "C:\\Users\\TruongLX\\.android\\build-cache\\e320864548d446e8a1b07bce48b1422deaca8dcb\\output\\res\\drawable\\com_facebook_button_login_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_expandable_shop.xml",
+        "source": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\res\\drawable\\selector_expandable_shop.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\TruongLX\\.android\\build-cache\\3b60b9f8074aa62839d10c0ce5f0e87add994ad0\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_round.xml",
+        "source": "C:\\Users\\TruongLX\\.android\\build-cache\\f19bebbc71aea2495012648ef08a2eaf828570ed\\output\\res\\drawable\\messenger_button_white_bg_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\linear_progress_bar_drawable.xml",
+        "source": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\res\\drawable\\linear_progress_bar_drawable.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\gradient_background_tab_travel.xml",
+        "source": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\res\\drawable\\gradient_background_tab_travel.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\login_travel_selector_button.xml",
+        "source": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\res\\drawable\\login_travel_selector_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\gradient_background_tab_shop.xml",
+        "source": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\res\\drawable\\gradient_background_tab_shop.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_selector.xml",
+        "source": "C:\\Users\\TruongLX\\.android\\build-cache\\f19bebbc71aea2495012648ef08a2eaf828570ed\\output\\res\\drawable\\messenger_button_white_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_background_full.xml",
+        "source": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\res\\drawable\\selector_background_full.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\TruongLX\\.android\\build-cache\\3b60b9f8074aa62839d10c0ce5f0e87add994ad0\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\TruongLX\\.android\\build-cache\\3b60b9f8074aa62839d10c0ce5f0e87add994ad0\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\social_top_background.xml",
+        "source": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\res\\drawable\\social_top_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_text_drawable.xml",
+        "source": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\res\\drawable\\edit_text_drawable.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_background.xml",
+        "source": "C:\\Users\\TruongLX\\.android\\build-cache\\6c4cbd296a658e38bd63b76fbc84c6801cb7bfaf\\output\\res\\drawable\\com_facebook_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_cancel_background.xml",
+        "source": "C:\\Users\\TruongLX\\.android\\build-cache\\6c4cbd296a658e38bd63b76fbc84c6801cb7bfaf\\output\\res\\drawable\\com_facebook_auth_dialog_cancel_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\cpb_idle_state_selector_full.xml",
+        "source": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\res\\drawable\\cpb_idle_state_selector_full.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_media_rating_bar_full_empty.xml",
+        "source": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\res\\drawable\\dialog_media_rating_bar_full_empty.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\TruongLX\\.android\\build-cache\\3b60b9f8074aa62839d10c0ce5f0e87add994ad0\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\TruongLX\\.android\\build-cache\\3b60b9f8074aa62839d10c0ce5f0e87add994ad0\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_dialog_media.xml",
+        "source": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\res\\drawable\\selector_dialog_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\google_card_media_background.xml",
+        "source": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\res\\drawable\\google_card_media_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_send_button_icon.xml",
+        "source": "C:\\Users\\TruongLX\\.android\\build-cache\\1164f474abe25a3071cfb00a3fe8ebe17fe3b097\\output\\res\\drawable\\com_facebook_send_button_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\TruongLX\\.android\\build-cache\\3b60b9f8074aa62839d10c0ce5f0e87add994ad0\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\TruongLX\\.android\\build-cache\\3b60b9f8074aa62839d10c0ce5f0e87add994ad0\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\search_bar_media_background.xml",
+        "source": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\res\\drawable\\search_bar_media_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_round.xml",
+        "source": "C:\\Users\\TruongLX\\.android\\build-cache\\f19bebbc71aea2495012648ef08a2eaf828570ed\\output\\res\\drawable\\messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\psts_background_tab.xml",
+        "source": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\res\\drawable\\psts_background_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\TruongLX\\.android\\build-cache\\3b60b9f8074aa62839d10c0ce5f0e87add994ad0\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_media_rating_bar_full.xml",
+        "source": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\res\\drawable\\dialog_media_rating_bar_full.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\TruongLX\\.android\\build-cache\\3b60b9f8074aa62839d10c0ce5f0e87add994ad0\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\cpb_idle_state_selector_full_error.xml",
+        "source": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\res\\drawable\\cpb_idle_state_selector_full_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\parallax_travel_round_background.xml",
+        "source": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\res\\drawable\\parallax_travel_round_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\TruongLX\\.android\\build-cache\\3b60b9f8074aa62839d10c0ce5f0e87add994ad0\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_selector.xml",
+        "source": "C:\\Users\\TruongLX\\.android\\build-cache\\f19bebbc71aea2495012648ef08a2eaf828570ed\\output\\res\\drawable\\messenger_button_blue_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\cpb_background.xml",
+        "source": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\res\\drawable\\cpb_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_icon.xml",
+        "source": "C:\\Users\\TruongLX\\.android\\build-cache\\6c4cbd296a658e38bd63b76fbc84c6801cb7bfaf\\output\\res\\drawable\\com_facebook_button_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\gradient_drawer_background_shop.xml",
+        "source": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\res\\drawable\\gradient_drawer_background_shop.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\TruongLX\\.android\\build-cache\\3b60b9f8074aa62839d10c0ce5f0e87add994ad0\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\TruongLX\\.android\\build-cache\\3b60b9f8074aa62839d10c0ce5f0e87add994ad0\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\login_media_gradient_background.xml",
+        "source": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\res\\drawable\\login_media_gradient_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_text_empty.xml",
+        "source": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\res\\drawable\\selector_text_empty.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_sexygirlicon.xml",
+        "source": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\res\\drawable\\ic_sexygirlicon.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\register_travel_transparent_background.xml",
+        "source": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\res\\drawable\\register_travel_transparent_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\login_travel_transparent_background.xml",
+        "source": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\res\\drawable\\login_travel_transparent_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_selector_dark.xml",
+        "source": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\res\\drawable\\checkbox_selector_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_background_navigation_social.xml",
+        "source": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\res\\drawable\\selector_background_navigation_social.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\TruongLX\\.android\\build-cache\\3b60b9f8074aa62839d10c0ce5f0e87add994ad0\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\TruongLX\\.android\\build-cache\\3b60b9f8074aa62839d10c0ce5f0e87add994ad0\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\TruongLX\\.android\\build-cache\\3b60b9f8074aa62839d10c0ce5f0e87add994ad0\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\TruongLX\\.android\\build-cache\\3b60b9f8074aa62839d10c0ce5f0e87add994ad0\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\layout-v21\\activity_transition_to.xml",
+        "source": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\res\\layout-v21\\activity_transition_to.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\TruongLX\\.android\\build-cache\\3b60b9f8074aa62839d10c0ce5f0e87add994ad0\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\TruongLX\\.android\\build-cache\\3b60b9f8074aa62839d10c0ce5f0e87add994ad0\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]

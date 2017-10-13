@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BeatifulGirl.iml" filepath="$PROJECT_DIR$/BeatifulGirl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MainApp/MainApp.iml" filepath="$PROJECT_DIR$/MainApp/MainApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StickyListHeaders/StickyListHeaders.iml" filepath="$PROJECT_DIR$/StickyListHeaders/StickyListHeaders.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraryPullToRefresh/libraryPullToRefresh.iml" filepath="$PROJECT_DIR$/libraryPullToRefresh/libraryPullToRefresh.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Social Girl</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <!--Facebook sdk -->
+    <string name="facebook_app_id">768926826627966</string>
+    <string name="fb_login_protocol_scheme">fb768926826627966</string>
+
+    <string name="drawer_icon_splash_screens">&#xe862;</string>
+    <string name="drawer_icon_progress_bars">&#xeaab;</string>
+    <!-- <string name="drawer_icon_buttons">&#xe802;</string> -->
+    <string name="drawer_icon_shape_image_views">&#xe8d6;</string>
+    <string name="drawer_icon_text_views">&#xe93f;</string>
+
+
+    <!-- Navigation Drawer icon titles -->
+    <string name="drawer_title_homepage">Home</string>
+    <string name="drawer_title_like">Favorite</string>
+    <!-- <string name="drawer_title_buttons">Buttons</string> -->
+    <string name="drawer_title_downloaded">Download</string>
+    <string name="drawer_title_about">About</string>
+
+
+    <string name="fontello_logo">&#xe8ad;</string>
+    <string name="fontello_search">&#xea01;</string>
+    <string name="fontello_x_mark">&#xe887;</string>
+    <string name="fontello_x_mark_masked">&#xe885;</string>
+    <string name="fontello_microfon">&#xea18;</string>
+    <string name="fontello_user">&#xe800;</string>
+    <string name="fontello_password">&#xe9df;</string>
+    <string name="fontello_upload">&#xeb30;</string>
+    <string name="fontello_play">&#xea7d;</string>
+    <string name="fontello_heart_empty">&#xe9b5;</string>
+    <string name="fontello_heart_full">&#xe9b6;</string>
+    <string name="fontello_drag_and_drop">&#xe988;</string>
+
+    <!-- Material Design Icons -->
+    <string name="material_icon_account">&#xe800;</string>
+    <string name="material_icon_account_multiple">&#xe8dc;</string>
+    <string name="material_icon_bookmark">&#xe921;</string>
+    <string name="material_icon_bike">&#xe915;</string>
+    <string name="material_icon_box_full">&#xe86b;</string>
+    <string name="material_icon_clock">&#xe881;</string>
+    <string name="material_icon_check">&#xe867;</string>
+    <string name="material_icon_checked_full">&#xe86f;</string>
+    <string name="material_icon_check_empty">&#xe86a;</string>
+    <string name="material_icon_check_full">&#xe86e;</string>
+    <string name="material_icon_city">&#xe878;</string>
+    <string name="material_icon_cart">&#xe857;</string>
+    <string name="material_icon_chevron_down">&#xe874;</string>
+    <string name="material_icon_chevron_up">&#xe877;</string>
+    <string name="material_icon_date">&#xe848;</string>
+    <string name="material_icon_drink">&#xea08;</string>
+    <string name="material_icon_dollar">&#xe892;</string>
+    <string name="material_icon_email">&#xe99c;</string>
+    <string name="material_icon_eat">&#xeac6;</string>
+    <string name="material_icon_friends">&#xe8d5;</string>
+    <string name="material_icon_flag">&#xe96a;</string>
+    <string name="material_icon_favorite">&#xe9b6;</string>
+    <string name="material_icon_go">&#xea04;</string>
+    <string name="material_icon_go_left">&#xe875;</string>
+    <string name="material_icon_go_right">&#xe876;</string>
+    <string name="material_icon_home_variant">&#xe9bd;</string>
+    <string name="material_icon_home">&#xe9be;</string>
+    <string name="material_icon_hotels">&#xeae3;</string>
+    <string name="material_icon_heart_outline">&#xe9b3;</string>
+    <string name="material_icon_headphones">&#xe9b1;</string>
+    <string name="material_icon_human">&#xe9c5;</string>
+    <string name="material_icon_headline">&#xeb40;</string>
+    <string name="material_icon_image_box">&#xe952;</string>
+    <string name="material_icon_info">&#xe9d4;</string>
+    <string name="material_icon_info_box">&#xe896;</string>
+    <string name="material_icon_like">&#xeb03;</string>
+    <string name="material_icon_line_spacing">&#xe988;</string>
+    <string name="material_icon_note">&#xea23;</string>
+    <string name="material_icon_message">&#xea12;</string>
+    <string name="material_icon_play">&#xe831;</string>
+    <string name="material_icon_play_single">&#xea7d;</string>
+    <string name="material_icon_play_square">&#xea7a;</string>
+    <string name="material_icon_play_circle">&#xea7b;</string>
+    <string name="material_icon_play_outline">&#xea7b;</string>
+    <string name="material_icon_pig">&#xea72;</string>
+    <string name="material_icon_password">&#xe9fa;</string>
+    <string name="material_icon_plus_box">&#xea7f;</string>
+    <string name="material_icon_party">&#xe937;</string>
+    <string name="material_icon_point_empty">&#xe868;</string>
+    <string name="material_icon_point_full">&#xe869;</string>
+    <string name="material_icon_star_outline">&#xeade;</string>
+    <string name="material_icon_star_half">&#xeadd;</string>
+    <string name="material_icon_star">&#xeadf;</string>
+    <string name="material_icon_share">&#xeac0;</string>
+    <string name="material_icon_skip_next">&#xeaca;</string>
+    <string name="material_icon_skip_previous">&#xeacb;</string>
+    <string name="material_icon_soundcloud">&#xead3;</string>
+    <string name="material_icon_statistics">&#xea87;</string>
+    <string name="material_icon_shop">&#xe858;</string>
+    <string name="material_icon_sleep">&#xe9c2;</string>
+    <string name="material_icon_settings">&#xeabe;</string>
+    <string name="material_icon_state">&#xeb62;</string>
+    <string name="material_icon_to_left">&#xe876;</string>
+    <string name="material_icon_video">&#xeb39;</string>
+    <string name="material_icon_undo">&#xeb2c;</string>
+    <string name="material_icon_unfold_more">&#xeb2f;</string>
+    <string name="material_icon_w_shop">&#xeb4f;</string>
+    <string name="material_icon_cloud_univ_first">&#xeb54;</string>
+    <string name="material_icon_cloud_univ_second">&#xeb5a;</string>
+    <string name="material_icon_cloud_univ_third">&#xeb55;</string>
+
+    <!-- Content description strings -->
+    <string name="cd_background_image">background image</string>
+    <string name="cd_main_image">main image</string>
+
+    <!-- TextView related strings -->
+    <string name="typography1">Typography I</string>
+    <string name="typography2">Typography II</string>
+    <string name="typography3">Typography III</string>
+    <string name="material_design">Material design</string>
+    <string name="material_design_variation">Material design variation</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="email">E-mail</string>
+    <string name="country">Country</string>
+    <string name="city">City</string>
+    <string name="welcome">Welcome!</string>
+    <string name="undo_deletion">UNDO DELETION</string>
+    <string name="undo_deletion_travel">WOOHOO! &#160;&#160;\nI\'VE MADE IT!</string>
+    <string name="download">DOWNLOAD</string>
+    <string name="done">DONE</string>
+    <string name="error">ERROR</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="skip">SKIP</string>
+    <string name="raised">RAISED</string>
+    <string name="flat">FLAT</string>
+    <string name="cancel">CANCEL</string>
+    <string name="ok">OK</string>
+    <string name="action_previous">Previous</string>
+
+    <!-- For Update -->
+    <string name="confirm_exit">Press Back button again to exit</string>
+
+    <string name="transition_image">image_tran</string>
+</resources>
