@@ -31,7 +31,7 @@
             android:gravity="center_vertical"
             android:orientation="vertical" >
 
-            <com.tspro.android.beatifulgirl.font.RobotoTextView
+            <com.tspro.project.girl.font.RobotoTextView
                 android:id="@+id/list_item_google_cards_social_name"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -41,7 +41,7 @@
                 android:textSize="16sp"
                 app:typeface="robotoLight" />
 
-            <com.tspro.android.beatifulgirl.font.RobotoTextView
+            <com.tspro.project.girl.font.RobotoTextView
                 android:id="@+id/list_item_google_cards_social_place"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -57,8 +57,8 @@
         android:layout_width="match_parent"
         android:layout_height="300dp"
         android:layout_weight="1"
-        android:contentDescription="@string/cd_main_image"
-        android:scaleType="fitCenter" />
+        android:scaleType="centerCrop"
+        android:contentDescription="@string/cd_main_image" />
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -68,7 +68,7 @@
         android:orientation="vertical"
         android:background="@drawable/google_cards_background_bottom"  >
 
-        <com.tspro.android.beatifulgirl.font.RobotoTextView
+        <com.tspro.project.girl.font.RobotoTextView
             android:id="@+id/list_item_google_cards_social_text"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -92,7 +92,7 @@
             android:layout_height="wrap_content"
             android:background="@color/material_pink_700"
             android:gravity="right">
-            <com.tspro.android.beatifulgirl.font.MaterialDesignIconsTextView
+            <com.tspro.project.girl.font.MaterialDesignIconsTextView
                 android:id="@+id/list_item_google_cards_social_like"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -103,14 +103,14 @@
                 android:textSize="20dp" />
 
 
-            <com.tspro.android.beatifulgirl.font.MaterialDesignIconsTextView
-                android:id="@+id/list_item_google_cards_social_follow"
+            <com.tspro.project.girl.font.MaterialDesignIconsTextView
+                android:id="@+id/list_item_google_cards_social_download"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_margin="8dp"
                 android:padding="8dp"
                 android:text="@string/material_icon_bookmark"
-                android:textColor="@android:color/white"
+                android:textColor="@color/material_light_yellow_A700"
                 android:textSize="20dp"/>
         </LinearLayout>
     </LinearLayout>

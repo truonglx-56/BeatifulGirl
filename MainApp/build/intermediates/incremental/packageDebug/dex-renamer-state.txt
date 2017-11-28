@@ -1,7 +1,0 @@
-#Fri Oct 13 22:26:36 ICT 2017
-base.0=C\:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_df7f16d6ab4997770262544fea85c89e5ed6bbc0
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=C\:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ffe9e174b4b9753d96e644c08213f094eb84aa25\\classes.dex
-base.1=C\:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ffe9e174b4b9753d96e644c08213f094eb84aa25
-file.0=C\:\\Users\\TruongLX\\Desktop\\BeatifulGirl\\MainApp\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_df7f16d6ab4997770262544fea85c89e5ed6bbc0\\classes.dex

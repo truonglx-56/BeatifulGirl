@@ -1,28 +1,78 @@
 <?xml version="1.0" encoding="utf-8"?>
-<com.tspro.android.beatifulgirl.view.MaterialRippleLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<com.tspro.project.girl.view.MaterialRippleLayoutMore xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     style="@style/RippleStyle"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:background="@drawable/selector_background_empty" >
+    android:background="@drawable/selector_background_empty">
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:gravity="center_vertical"
-        android:orientation="horizontal"
-        android:paddingBottom="4dp"
-        android:paddingTop="4dp" >
+        android:background="#e5263238"
+        android:orientation="vertical">
 
-        <com.tspro.android.beatifulgirl.font.RobotoTextView
-            android:id="@+id/title"
-            style="@style/TextViewAppearance.Title1"
+        <View
+            android:id="@+id/divider_top"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/material_pink_700" />
+
+        <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:paddingLeft="16dp"
-            android:textColor="@drawable/selector_text_empty"
-            android:textSize="20sp"
-            app:typeface="robotoLight" />
+            android:gravity="center_vertical"
+            android:minHeight="72dp"
+            android:orientation="horizontal"
+            android:paddingBottom="4dp"
+            android:paddingTop="4dp">
+
+            <com.tspro.project.girl.font.MaterialDesignIconsTextView
+                android:id="@+id/icon_delete"
+                style="@style/TextViewAppearance.Title1"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="15dp"
+                android:gravity="center"
+                android:padding="0dp"
+                android:text="@string/fontello_x_mark"
+                android:textColor="@color/material_pink_700"
+                android:textSize="22dp" />
+
+            <com.tspro.project.girl.font.MaterialDesignIconsTextView
+                android:id="@+id/icon"
+                style="@style/TextViewAppearance.Title1"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="30dp"
+                android:gravity="center"
+                android:padding="0dp"
+                android:textColor="@color/material_pink_700"
+                android:textSize="22dp" />
+
+            <com.tspro.project.girl.font.RobotoTextView
+                android:id="@+id/title"
+                style="@style/TextViewAppearance.Title1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:gravity="center"
+                android:maxLines="1"
+                android:paddingBottom="6dp"
+                android:paddingTop="6dp"
+
+                android:textColor="@color/main_color_grey_200"
+                android:textSize="20dp"
+                app:typeface="robotoLight" />
+
+        </LinearLayout>
+
+        <View
+            android:id="@+id/divider_bottom"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/material_pink_700" />
     </LinearLayout>
 
-</com.tspro.android.beatifulgirl.view.MaterialRippleLayout>
+</com.tspro.project.girl.view.MaterialRippleLayoutMore>

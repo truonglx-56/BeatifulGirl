@@ -16,7 +16,7 @@
         android:layout_height="64dp"
         android:layout_margin="16dp" />
 
-    <com.tspro.android.beatifulgirl.font.RobotoTextView
+    <com.tspro.project.girl.font.RobotoTextView
         android:id="@+id/email"
         style="@style/TextViewAppearance.Body1"
         android:layout_width="wrap_content"

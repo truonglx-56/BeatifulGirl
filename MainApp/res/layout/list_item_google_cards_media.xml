@@ -38,7 +38,7 @@
             android:orientation="vertical"
             android:padding="8dp" >
 
-            <com.tspro.android.beatifulgirl.font.RobotoTextView
+            <com.tspro.project.girl.font.RobotoTextView
                 android:id="@+id/list_item_google_cards_media_artist_name"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -53,7 +53,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content" >
 
-                <com.tspro.android.beatifulgirl.font.RobotoTextView
+                <com.tspro.project.girl.font.RobotoTextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Birth year: "
@@ -61,7 +61,7 @@
                     android:textSize="12sp"
                     app:typeface="robotoItalic" />
 
-                <com.tspro.android.beatifulgirl.font.RobotoTextView
+                <com.tspro.project.girl.font.RobotoTextView
                     android:id="@+id/list_item_google_cards_media_year"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -75,7 +75,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content" >
 
-                <com.tspro.android.beatifulgirl.font.RobotoTextView
+                <com.tspro.project.girl.font.RobotoTextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Country: "
@@ -83,7 +83,7 @@
                     android:textSize="12sp"
                     app:typeface="robotoItalic" />
 
-                <com.tspro.android.beatifulgirl.font.RobotoTextView
+                <com.tspro.project.girl.font.RobotoTextView
                     android:id="@+id/list_item_google_cards_media_country"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -94,7 +94,7 @@
 
             </LinearLayout>
 
-            <com.tspro.android.beatifulgirl.font.RobotoTextView
+            <com.tspro.project.girl.font.RobotoTextView
                 android:id="@+id/list_item_google_cards_media_text"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -111,7 +111,7 @@
                 android:gravity="right|bottom"
                 android:layout_gravity="right|bottom" >
 
-                <com.tspro.android.beatifulgirl.font.MaterialDesignIconsTextView
+                <com.tspro.project.girl.font.MaterialDesignIconsTextView
                     android:id="@+id/list_item_google_cards_media_like"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -121,7 +121,7 @@
                     android:textColor="@android:color/white"
                     android:textSize="16dp" />
 
-                <com.tspro.android.beatifulgirl.font.MaterialDesignIconsTextView
+                <com.tspro.project.girl.font.MaterialDesignIconsTextView
                     android:id="@+id/list_item_google_cards_media_favorite"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -132,7 +132,7 @@
                     android:textColor="@android:color/white"
                     android:textSize="16dp" />
 
-                <com.tspro.android.beatifulgirl.font.MaterialDesignIconsTextView
+                <com.tspro.project.girl.font.MaterialDesignIconsTextView
                     android:id="@+id/list_item_google_cards_media_share"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"

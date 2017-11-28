@@ -1,17 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    style="@style/ListViewStyle"
     android:id="@+id/parent"
+    style="@style/ListViewStyle"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical">
+
+   <!-- <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:orientation="horizontal">
+
+        <com.tspro.android.beatifulgirl.view.CircleImageView
+            android:id="@+id/profile_image"
+            android:layout_width="64dp"
+            android:layout_height="64dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp"
+            android:src="@drawable/default_imagess"
+            android:layout_marginRight="16dp"
+            android:layout_marginTop="10dp" />
+
+        <com.facebook.login.widget.LoginButton
+            android:id="@+id/login_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginBottom="30dp"
+            android:layout_marginTop="30dp" />
+    </LinearLayout>-->
 
     <ListView
         android:id="@+id/list_view"
         android:layout_width="@dimen/drawer_width"
         android:layout_height="wrap_content" />
-    <com.tspro.android.beatifulgirl.font.RobotoTextView
+
+    <com.tspro.project.girl.font.RobotoTextView
         android:id="@+id/more"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -24,8 +50,10 @@
         android:textColor="@color/white"
         android:textSize="20sp"
         app:typeface="robotoRegular" />
+
     <ListView
         android:id="@+id/list_view2"
         android:layout_width="@dimen/drawer_width"
         android:layout_height="match_parent" />
+
 </LinearLayout>

@@ -39,7 +39,7 @@
                 android:gravity="center_vertical"
                 android:orientation="vertical" >
 
-                <com.tspro.android.beatifulgirl.font.RobotoTextView
+                <com.tspro.project.girl.font.RobotoTextView
                     android:id="@+id/name_user"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -49,7 +49,7 @@
                     android:textSize="24sp"
                     app:typeface="robotoLight" />
 
-                <com.tspro.android.beatifulgirl.font.RobotoTextView
+                <com.tspro.project.girl.font.RobotoTextView
                     android:id="@+id/second_text"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -91,7 +91,7 @@
         android:layout_below="@+id/header_navigation_drawer_social_image"
         android:background="@color/material_light_yellow_600" />
 
-    <com.facebook.login.widget.LoginButton
+   <!-- <com.facebook.login.widget.LoginButton
         android:id="@+id/login_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -100,6 +100,6 @@
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true"
         android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true" />
+        android:layout_alignParentStart="true" />-->
 
 </RelativeLayout>

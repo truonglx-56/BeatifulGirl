@@ -9,6 +9,6 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_gravity="center"
-        android:src="@drawable/default_image"
+        android:src="@drawable/default_imagess"
         android:transitionName="@string/transition_image" />
 </RelativeLayout>

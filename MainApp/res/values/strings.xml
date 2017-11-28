@@ -6,8 +6,8 @@
     <string name="drawer_close">Close navigation drawer</string>
 
     <!--Facebook sdk -->
-    <string name="facebook_app_id">768926826627966</string>
-    <string name="fb_login_protocol_scheme">fb768926826627966</string>
+    <string name="facebook_app_id">1104805722988539</string>
+    <string name="fb_login_protocol_scheme">fb1104805722988539</string>
 
     <string name="drawer_icon_splash_screens">&#xe862;</string>
     <string name="drawer_icon_progress_bars">&#xeaab;</string>
@@ -22,6 +22,7 @@
     <!-- <string name="drawer_title_buttons">Buttons</string> -->
     <string name="drawer_title_downloaded">Download</string>
     <string name="drawer_title_about">About</string>
+    <string name="drawer_title_add">Add Page</string>
 
 
     <string name="fontello_logo">&#xe8ad;</string>
@@ -41,6 +42,7 @@
     <string name="material_icon_account">&#xe800;</string>
     <string name="material_icon_account_multiple">&#xe8dc;</string>
     <string name="material_icon_bookmark">&#xe921;</string>
+    <string name="material_icon_download">&#xE258;</string>
     <string name="material_icon_bike">&#xe915;</string>
     <string name="material_icon_box_full">&#xe86b;</string>
     <string name="material_icon_clock">&#xe881;</string>
@@ -108,7 +110,7 @@
     <string name="material_icon_cloud_univ_first">&#xeb54;</string>
     <string name="material_icon_cloud_univ_second">&#xeb5a;</string>
     <string name="material_icon_cloud_univ_third">&#xeb55;</string>
-
+    <string name="material_icon_add">&#8853;</string>
     <!-- Content description strings -->
     <string name="cd_background_image">background image</string>
     <string name="cd_main_image">main image</string>
@@ -119,8 +121,8 @@
     <string name="typography3">Typography III</string>
     <string name="material_design">Material design</string>
     <string name="material_design_variation">Material design variation</string>
-    <string name="username">Username</string>
-    <string name="password">Password</string>
+    <string name="username">Group</string>
+    <string name="password">Token</string>
     <string name="email">E-mail</string>
     <string name="country">Country</string>
     <string name="city">City</string>
@@ -136,11 +138,35 @@
     <string name="raised">RAISED</string>
     <string name="flat">FLAT</string>
     <string name="cancel">CANCEL</string>
+    <string name="get_group">Get group</string>
     <string name="ok">OK</string>
+    <string name="loading">Loading</string>
+    <string name="please_wait">Please wait...</string>
     <string name="action_previous">Previous</string>
 
     <!-- For Update -->
     <string name="confirm_exit">Press Back button again to exit</string>
 
     <string name="transition_image">image_tran</string>
+    <string name="permission_text">Permission required for writing external storage!</string>
+
+    <string name="favorite">Changed favorites</string>
+    <string name="downloading">Downloading</string>
+    <string name="group_name">Name</string>
+    <string name="continue_token">Continue</string>
+    <string name="token_wizard_0">Open chrome app and input url: `https://facebook.com`</string>
+    <string name="token_wizard_1">Tick: `Request desktop site` and go</string>
+    <string name="token_wizard_2">Login to Facebook</string>
+    <string name="token_wizard_3">Click on your profile</string>
+    <string name="token_wizard_4">Type at the beginning of the URL: `view-source:`.Example: `view-source:https://facebook.com/yourname`</string>
+    <string name="token_wizard_5">Click `Find in page`</string>
+    <string name="token_wizard_6">Find: `eaa`</string>
+    <string name="token_wizard_7">Copy result: `EAA...`</string>
+    <string name="token_wizard_8">Paste to dialog token</string>
+    <string name="token_wizard_9">Input name and click `Get group` to get all group</string>
+    <string name="token_wizard_10">Choose a group and click `Ok`</string>
+    <string name="token_dialog">Token Input</string>
+    <string name="app_version">1.0.0</string>
+    <string name="app_email">tsproduction@gmail.com</string>
+
 </resources>

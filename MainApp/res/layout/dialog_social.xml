@@ -1,34 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:layout_gravity="center"
-    android:gravity="center" >
 
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:gravity="center">
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
     <LinearLayout
         android:id="@+id/dialog_social_layout"
-        android:layout_width="260dp"
+        android:layout_width="300dp"
         android:layout_height="wrap_content"
-        android:background="@color/main_color_grey_100"
-        android:orientation="vertical" >
+        android:background="@color/material_grey_800"
+        android:orientation="vertical">
 
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center"
-            android:orientation="horizontal" >
+            android:orientation="horizontal">
 
-            <com.tspro.android.beatifulgirl.font.RobotoTextView
+            <com.tspro.project.girl.font.RobotoTextView
                 android:id="@+id/dialog_social_free"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:background="@color/main_color_grey_100"
+                android:background="@color/material_grey_800"
                 android:gravity="center"
                 android:padding="16dp"
-                android:text="Free"
-                android:textColor="@color/main_color_600"
+                android:text="@string/token_dialog"
+                android:textColor="@color/white"
                 android:textSize="20sp"
                 app:typeface="robotoBlack" />
 
@@ -39,22 +42,24 @@
             android:layout_height="wrap_content"
             android:orientation="vertical"
             android:paddingBottom="22dp"
-            android:paddingTop="22dp" >
+            android:paddingTop="22dp">
 
-            <com.tspro.android.beatifulgirl.font.RobotoTextView
-                android:id="@+id/dialog_social_username"
+            <com.tspro.project.girl.font.RobotoTextView
+                android:id="@+id/dialog_social_name"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginBottom="8dp"
                 android:layout_marginLeft="30dp"
                 android:layout_marginRight="30dp"
-                android:text="@string/username"
-                android:textColor="@color/main_color_grey_500"
+                android:layout_marginTop="16dp"
+                android:maxLines="4"
+                android:text="@string/group_name"
+                android:textColor="@color/white"
                 android:textSize="10sp"
                 app:typeface="robotoLight" />
 
             <EditText
-                android:id="@+id/dialog_social_edit_username"
+                android:id="@+id/dialog_social_edit_mask"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="30dp"
@@ -65,10 +70,11 @@
                 android:backgroundTintMode="@android:color/transparent"
                 android:drawableBottom="@android:color/transparent"
                 android:ems="10"
-                android:hint="@string/username"
+                android:hint="@string/group_name"
+
                 android:inputType="textNoSuggestions"
-                android:singleLine="true"
-                android:textColor="@color/main_color_grey_700"
+
+                android:textColor="@color/white"
                 android:textColorHint="@color/main_color_grey_700"
                 android:textSize="18sp" />
 
@@ -77,10 +83,47 @@
                 android:layout_height="2dp"
                 android:layout_marginLeft="10dp"
                 android:layout_marginRight="10dp"
-                android:background="@color/main_color_grey_300" />
+                android:background="@color/main_color_600" />
+            <!-- <com.tspro.android.beatifulgirl.font.RobotoTextView
+                 android:id="@+id/dialog_social_username"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:layout_marginBottom="8dp"
+                 android:layout_marginLeft="30dp"
+                 android:layout_marginRight="30dp"
+                 android:text="@string/username"
+                 android:textColor="@color/white"
+                 android:textSize="10sp"
+                 app:typeface="robotoLight" />
 
-            <com.tspro.android.beatifulgirl.font.RobotoTextView
-                android:id="@+id/dialog_social_password"
+             <EditText
+                 android:id="@+id/dialog_social_edit_username"
+                 android:layout_width="match_parent"
+                 android:layout_height="wrap_content"
+                 android:layout_marginLeft="30dp"
+                 android:layout_marginRight="30dp"
+                 android:layout_weight="1"
+                 android:background="@android:color/transparent"
+                 android:backgroundTint="@android:color/transparent"
+                 android:backgroundTintMode="@android:color/transparent"
+                 android:drawableBottom="@android:color/transparent"
+                 android:ems="10"
+                 android:hint="@string/username"
+                 android:inputType="textNoSuggestions"
+                 android:singleLine="true"
+                 android:textColor="@color/white"
+                 android:textColorHint="@color/main_color_grey_700"
+                 android:textSize="18sp" />
+
+             <View
+                 android:layout_width="match_parent"
+                 android:layout_height="2dp"
+                 android:layout_marginLeft="10dp"
+                 android:layout_marginRight="10dp"
+                 android:background="@color/main_color_600" />-->
+
+            <com.tspro.project.girl.font.RobotoTextView
+                android:id="@+id/dialog_social_token"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginBottom="8dp"
@@ -89,7 +132,7 @@
                 android:layout_marginTop="16dp"
                 android:maxLines="4"
                 android:text="@string/password"
-                android:textColor="@color/main_color_grey_500"
+                android:textColor="@color/white"
                 android:textSize="10sp"
                 app:typeface="robotoLight" />
 
@@ -106,9 +149,11 @@
                 android:drawableBottom="@android:color/transparent"
                 android:ems="10"
                 android:hint="@string/password"
-                android:inputType="textPassword"
-                android:singleLine="true"
-                android:textColor="@color/main_color_grey_700"
+                android:inputType="textMultiLine"
+                android:minLines="3"
+
+
+                android:textColor="@color/white"
                 android:textColorHint="@color/main_color_grey_700"
                 android:textSize="18sp" />
 
@@ -117,15 +162,36 @@
                 android:layout_height="2dp"
                 android:layout_marginLeft="10dp"
                 android:layout_marginRight="10dp"
-                android:background="@color/main_color_grey_300" />
+                android:background="@color/main_color_600" />
+
+            <Spinner
+                android:id="@+id/spinner_group"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+            </Spinner>
         </LinearLayout>
 
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:gravity="right" >
+            android:gravity="right">
 
-            <com.tspro.android.beatifulgirl.font.RobotoTextView
+            <com.tspro.project.girl.font.RobotoTextView
+                android:id="@+id/dialog_social_get_group"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="8dp"
+                android:background="@drawable/selector_dialog_warning"
+                android:gravity="center"
+                android:minWidth="64dp"
+                android:padding="8dp"
+                android:text="@string/get_group"
+                android:textColor="@color/white"
+                android:textSize="14sp"
+                app:typeface="robotoMedium" />
+
+            <com.tspro.project.girl.font.RobotoTextView
                 android:id="@+id/dialog_social_cancel"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -135,11 +201,11 @@
                 android:minWidth="64dp"
                 android:padding="8dp"
                 android:text="@string/cancel"
-                android:textColor="@color/main_color_600"
+                android:textColor="@color/white"
                 android:textSize="14sp"
                 app:typeface="robotoMedium" />
 
-            <com.tspro.android.beatifulgirl.font.RobotoTextView
+            <com.tspro.project.girl.font.RobotoTextView
                 android:id="@+id/dialog_social_ok"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -149,10 +215,10 @@
                 android:minWidth="64dp"
                 android:padding="8dp"
                 android:text="@string/ok"
-                android:textColor="@color/main_color_600"
+                android:textColor="@color/white"
                 android:textSize="14sp"
                 app:typeface="robotoMedium" />
         </LinearLayout>
     </LinearLayout>
-
 </RelativeLayout>
+</ScrollView>

@@ -264,10 +264,10 @@
     <color name="material_grey_300">#e0e0e0</color>
     <color name="material_grey_400">#bdbcbc</color>
     <color name="material_grey_600">#757575</color>
-    <color name="material_grey_700">#e5263238</color>
+    <color name="material_grey_700">#616161</color>
     <color name="material_grey_800">#424242</color>
     <color name="material_grey_900">#202020</color>
-
+    <color name="material_grey_toolbar">#e5263238</color>
     <!-- Blue Grey -->
     <color name="material_blue_grey_500">#607d8b</color>
     <color name="material_blue_grey_50">#eceef0</color>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.tspro.project.girl.HackyViewPager
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/view_pager"
+    android:layout_width="match_parent"
+    android:background="@color/main_color_grey_800"
+    android:layout_height="match_parent" />
